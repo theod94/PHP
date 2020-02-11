@@ -1,0 +1,15 @@
+[{
+  "nom" : "Dupont",
+  "prenom" : "Jean",
+  "email" : "v.guevorte@gmail.com",
+  "mdp" : "$2y$10$Vgh67y5l0FYbZ.qA8wWAzeDrrsvpNWxlvUjNOydIuuFE1EXfe1eiy",
+  "droit": 100
+},
+  {
+    "nom" : "Gerard",
+    "prenom" : "Jean",
+    "email" : "d.jean@laposte.net",
+    "mdp" : "$2y$10$Vgh67y5l0FYbZ.qA8wWAzeDrrsvpNWxlvUjNOydIuuFE1EXfe1eiy",
+    "droit": 20
+  }
+]
